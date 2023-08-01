@@ -1,0 +1,14 @@
+body {
+	background-color: #FFF;
+}
+
+body, h1, h2, h3, a, button {
+    padding: 0;
+	margin: 0;
+	text-decoration: none;
+	color: inherit;
+}
+
+button {
+    cursor: pointer;
+}

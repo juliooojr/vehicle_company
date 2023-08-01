@@ -1,0 +1,33 @@
+.main-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 9%;
+    padding-right: 9%;
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+
+.main-nav {
+    display: flex;
+    gap: 35px;
+}
+
+.sign-in {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.main-header button {
+    background-color: #FFF;
+    border: 1px solid #003478;
+    padding: 15px 25px;
+    transition: transform 100ms cubic-bezier(.45,.97,.68,2.48);
+}
+
+.main-header button:hover {
+    background-color: #003478;
+    color: #FFF;
+    transform: scale(1.04);
+}

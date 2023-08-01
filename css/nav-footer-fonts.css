@@ -1,0 +1,23 @@
+.nav-footer-fonts {
+    color: #2F3A3B;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.nav-footer-fonts:hover {
+    font-weight: 600;
+}
+
+.nav-footer-fonts.-signIn {
+    color: #494949;
+}
+
+.nav-footer-fonts.-signIn:hover {
+    text-decoration: underline;
+}
+
+.nav-footer-fonts.-signUp {
+    color: #003478;
+    font-weight: 600;
+}
