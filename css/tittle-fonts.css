@@ -1,0 +1,29 @@
+.main-tittle {
+    width: 558px;
+    color: #003478;
+    font-family: Sansation, Times, sans-serif;
+    font-size: 72px;
+    font-weight: 300;
+    line-height: 68px;
+}
+
+.main-tittle span {
+    color: #FBAA0C;
+    font-weight: 700;
+}
+
+.main-subtittle {
+    font-family: Sansation, Times, sans-serif;
+    color: #FFF;
+    font-size: 50px;
+    font-weight: 300;
+    line-height: 68px;
+}
+
+.main-subtittle span{
+    font-family: Sansation, Times, sans-serif;
+    color: #FFF;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 68px;
+}

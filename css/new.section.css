@@ -1,0 +1,11 @@
+.new-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    background-color: #303231;
+    height: 80px;
+    font-size: 36px;
+    font-weight: 400;
+    margin: auto;
+}
